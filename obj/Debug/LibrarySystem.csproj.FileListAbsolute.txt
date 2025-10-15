@@ -1,0 +1,6 @@
+c:\users\mohamed firas\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+c:\users\mohamed firas\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+c:\users\mohamed firas\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+c:\users\mohamed firas\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+c:\users\mohamed firas\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+c:\users\mohamed firas\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
